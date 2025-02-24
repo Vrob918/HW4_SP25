@@ -32,7 +32,6 @@ import math
 from random import random as rnd
 from numericalMethods import Simpson, Secant
 from copy import deepcopy as dc
-from matplotlib import pyplot as plt
 #endregion
 
 #region functions
